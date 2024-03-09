@@ -120,6 +120,7 @@
 - [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
 - [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
 - [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
+- [GasbyAI](https://gasbyai.com) - A powerful AI Chat, supported characters, prompt library, apps, with common AI providers with latest models
 
 ### Examples
 
